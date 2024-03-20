@@ -222,6 +222,8 @@ nav .fas{
         background-image: url(images/Abhi.jpg);
         background-size: 200px;
         background-position: right bottom;
+        height: 75vh;
+        border-radius: 10px;
     }
     .header-text{
         margin-top: 100px;
