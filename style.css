@@ -220,7 +220,7 @@ nav .fas{
 @media only screen and (max-width: 600px){
     #header{
         background-image: url(images/Abhi.jpg);
-        background-size: 500px;
+        background-size: 250px;
     }
     .header-text{
         margin-top: 100px;
